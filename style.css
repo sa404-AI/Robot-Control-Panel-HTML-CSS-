@@ -1,0 +1,73 @@
+body
+        {
+          margin:0;
+            padding:0;
+            height: 100vh;
+            background-position: center;
+            background-size:cover;
+           background-image:url();
+            
+        }
+
+
+.custom-shape-divider-top-1595013357 .shape-fill {
+    fill: rgba(84, 0, 244, 0.51);
+    
+}
+.hh
+       { 
+          font-family: sans-serif;
+          text-align: center;
+          margin-top: 70px;
+         font-size: 70px;
+         font-weight: 800;
+           color:transparent;
+           background-image: url(https://media.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif);
+           background-position: center;
+           -webkit-background-clip:text;
+    
+      }
+
+
+       
+.container
+{
+    background-image:url(https://media.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif);
+    width:30rem;
+    height: 30rem;
+    border-radius:30% 70% 70% 30% / 30% 30% 70% 70%  ;
+    left:0;
+    top: 0;
+    bottom: 100px;
+    right:0;
+    margin:auto;
+            
+}
+
+
+.demo {
+            height: 90vh;
+            width: 100%;
+        position:relative;
+    
+
+}
+.demo model-viewer{
+            width: 60%;
+            height: 60%;
+    position: absolute;
+    left:0;
+    top: 0;
+    bottom: 0;
+    right:0;
+    margin:auto;
+            
+    
+}
+
+
+    
+        
+  
+        
+    
